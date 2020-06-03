@@ -1,5 +1,5 @@
 # File-Structures
-Repository consisting files related to Document Processing Mini Project
+Repository consisting files related to "Document Processing using Keywords" mini project.
 
 
 # ABSTRACT
